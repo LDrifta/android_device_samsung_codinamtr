@@ -22,5 +22,5 @@ TARGET_OTA_ASSERT_DEVICE := codinaMetroPCS,codinamtr,SGH-T599N
 TARGET_BOOTLOADER_BOARD_NAME := DB8520H
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_codinaxxx_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_codinamtr_defconfig
 
